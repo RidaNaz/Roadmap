@@ -27,10 +27,10 @@
 
 ## 3. Production Environment
 
-- **LangChain** -   ***Llma 3.1***
 - **OS:**   ***Linux***
-- **Orchestration:**   ***Kubernetes***
+- **LangChain** -   ***Llma 3.1***
 - **Cloud:**   ***Azure***
+- **Orchestration:**   ***Kubernetes***
 
 
 ## 🔗 Reach Me
