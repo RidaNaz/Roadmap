@@ -32,6 +32,8 @@
 - **Cloud:**   ***Azure***
 - **Orchestration:**   ***Kubernetes***
 
+### Sir Zia, "Our Program is basically training you to become Autonomous AI Agent Developer. However, we are not calling it so because at this stage most people will not understand it."
+
 
 ## 🔗 Reach Me
 
